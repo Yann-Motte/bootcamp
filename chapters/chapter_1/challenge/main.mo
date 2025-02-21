@@ -1,7 +1,7 @@
 actor {
 
     public shared query func getName() : async Text {
-        return "Not implemented";
+        return "Test";
     };
 
     public shared query func getManifesto() : async Text {
